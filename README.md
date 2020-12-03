@@ -1,4 +1,4 @@
-# ChatRroom
+# ChatRoom
 
 Simple program that can be locally hosted and allows users to connect. Users can simultaneously talk to other users with simple commands.
 
